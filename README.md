@@ -31,7 +31,6 @@
 - Javed, A., Sundrani, A., Malik, N., Prescott, S.M., Javed, A., Sundrani, A., Malik, N. and Prescott, S.M., 2021. UI Automation. Robotic Process Automation using UiPath StudioX: A Citizen Developer’s Guide to Hyperautomation, pp.101-193.
 - Madakam, S., Holmukhe, R.M. and Jaiswal, D.K., 2019. The future digital work force: robotic process automation (RPA). JISTEM-Journal of Information Systems and Technology Management, 16.
 - Malathi, T., Selvamuthukumaran, D., Chandar, C.D., Niranjan, V. and Swashthika, A.K., 2021, February. An Experimental Performance Analysis on Robotics Process Automation (RPA) With Open Source OCR Engines: Microsoft Ocr And Google Tesseract OCR. In IOP Conference Series: Materials Science and Engineering (Vol. 1059, No. 1, p. 012004). IOP Publishing.
-- Kumar, M., 2021. Uipath vs Automation Anywhere vs Blueprism-Comparing RPA Tools. Frisco, TX, USA: ZENESYS TECHNOSYS. Dostupno na: https://www. zenesys. com/blog/uipath-vs-automation-anywhere-vs-blueprism [24. studenog 2021.].
 - Witkowski, W., 2021. Uipath IPO: 5 Things to Know about the ‘Software Robots’ Company Valued at Nearly $30 Billion.
 - Man, R., 2019. How Growth Teams Are Built and Managed At UiPath, One Of The Biggest Artificial Intelligence Startups. Retrieved 2019.
 - Balkan, A. and Orakwe, J.N., 2020. RPA & AI: Comparison of Commercial RPA Software for Patent Research in an R&D Department (Automation Anywhere & UiPath). Technische Hochschule Ingolstadt, Ingolstadt.
@@ -45,3 +44,4 @@
 - Malathi, T., Chandar, D., Nithish, S., Niranjan, V. and Swashthika, A.K., Analyzing and Experimenting Open Source OCR Engines in RPA with Levenshtein Distance Algorithm.
 - Tathe, K., Sharma, S. and Kharade, J., DATA COLLECTION USING WEB SCRAPPING WITH ROBOTIC PROCESS AUTOMATION.
 - Aravinth, S.S., Vijay Anand, P., Parameswari, M. and Sasikala, M., 2022. Automated Work Schedule Management with Various Robotics Process Automation (RPA) Tools. In Recent Advances in Materials Technologies: Select Proceedings of ICEMT 2021 (pp. 337-345). Singapore: Springer Nature Singapore.
+- Kumar, M., 2021. Uipath vs Automation Anywhere vs Blueprism-Comparing RPA Tools. Frisco, TX, USA: ZENESYS TECHNOSYS. Dostupno na: https ://www. zenesys. com/blog/uipath-vs-automation-anywhere-vs-blueprism [24. studenog 2021.].
