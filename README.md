@@ -44,4 +44,4 @@
 - Malathi, T., Chandar, D., Nithish, S., Niranjan, V. and Swashthika, A.K., Analyzing and Experimenting Open Source OCR Engines in RPA with Levenshtein Distance Algorithm.
 - Tathe, K., Sharma, S. and Kharade, J., DATA COLLECTION USING WEB SCRAPPING WITH ROBOTIC PROCESS AUTOMATION.
 - Aravinth, S.S., Vijay Anand, P., Parameswari, M. and Sasikala, M., 2022. Automated Work Schedule Management with Various Robotics Process Automation (RPA) Tools. In Recent Advances in Materials Technologies: Select Proceedings of ICEMT 2021 (pp. 337-345). Singapore: Springer Nature Singapore.
-- Kumar, M., 2021. Uipath vs Automation Anywhere vs Blueprism-Comparing RPA Tools. Frisco, TX, USA: ZENESYS TECHNOSYS. Dostupno na: https ://www. zenesys. com/blog/uipath-vs-automation-anywhere-vs-blueprism [24. studenog 2021.].
+- Kumar, M., 2021. Uipath vs Automation Anywhere vs Blueprism-Comparing RPA Tools. Frisco, TX, USA: ZENESYS TECHNOSYS. Dostupno na: https :// www. zenesys. com/blog/uipath-vs-automation-anywhere-vs-blueprism [24. studenog 2021.].
