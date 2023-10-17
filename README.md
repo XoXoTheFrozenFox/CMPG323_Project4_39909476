@@ -1,6 +1,6 @@
 # Project4_39909476
 ## Login information:
-- Username: BernardSwanepoel1510
+- Username: 39909476@mynwu.ac.za
 - Password: Bernard#123
 ## Description for the user how to use the RPA UIpath automation:  
 - Launch RPA Tool: Open the RPA application installed on your computer.
