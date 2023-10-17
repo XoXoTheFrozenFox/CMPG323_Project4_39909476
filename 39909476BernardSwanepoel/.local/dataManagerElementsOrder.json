@@ -12,12 +12,13 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Counter1&Sequence_2",
-        "Counter&Sequence_2",
-        "DataTableOrders&Sequence_1",
-        "DataTableCustomer&Sequence_1",
-        "Password&Sequence_1",
-        "Email&Sequence_1"
+        "dateOrderDateString&Sequence_19",
+        "dateOrderDate&Sequence_19",
+        "dt_Orders&Sequence_11",
+        "variable1&Sequence_11",
+        "dt_Customers&Sequence_11",
+        "Password&Sequence_11",
+        "Email&Sequence_11"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

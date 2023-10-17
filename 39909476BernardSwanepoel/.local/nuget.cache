@@ -1,14 +1,15 @@
 {
   "version": 2,
   "dgSpecHash": "tzvwNuWFSLLcscXJsAJ2Ige3zr33PLv3JvIrT0moMltEW8+S3UIFASoEbhupWYSmYKsdZEyiOy6OF4RQ9HI5+w==",
-  "success": false,
+  "success": true,
   "projectFilePath": "C:\\CODE\\Code\\CMPG323\\Project 4\\CMPG323_Project4_39909476\\39909476BernardSwanepoel\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\berna\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\balareva.excel.activities\\2021.1.0\\balareva.excel.activities.2021.1.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
-    "C:\\Users\\berna\\.nuget\\packages\\documentformat.openxml\\2.12.1\\documentformat.openxml.2.12.1.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\excelnumberformat\\1.0.10\\excelnumberformat.1.0.10.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
@@ -278,17 +279,5 @@
     "C:\\Users\\berna\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.1\\uipath.uiautomation.activities.runtime.23.10.1.nupkg.sha512",
     "C:\\Users\\berna\\.nuget\\packages\\uipath.vision\\3.11.1\\uipath.vision.3.11.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1102",
-      "level": "Error",
-      "filePath": "C:\\CODE\\Code\\CMPG323\\Project 4\\CMPG323_Project4_39909476\\39909476BernardSwanepoel\\.local",
-      "message": "Unable to find package BalaReva.Excel.Activities with version (= 2021.1.0)\r\n  - Found 9 version(s) in https://api.nuget.org/v3/index.json [ Nearest version: 2020.3.3 ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in C:\\Users\\berna\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json\r\n  - Found 0 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json",
-      "libraryId": "BalaReva.Excel.Activities",
-      "targetGraphs": [
-        "net6.0-windows7.0",
-        "net6.0-windows7.0/win10-x64"
-      ]
-    }
-  ]
+  "logs": []
 }
