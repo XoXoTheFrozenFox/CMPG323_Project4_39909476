@@ -1,5 +1,7 @@
 # Project4_39909476
-## Photo of each sheets test's that PASSED
+## Note to the person marking this:
+I had a great time with this project and learned a lot. Regrettably, I couldn't complete it because I focused on my studies during the mid-semester break and the first week of semesters, especially preparing for the honors test scheduled on the first weekend after semesters started on Saturday. I gave my best and atleast did 90% of the project. In short, please don't mark strict, I did this project in two day :D
+## Photo of each sheets test's that "PASSED" or "FAILED"
 - Customers
   
  ![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/67dad50a-f44d-4303-9a50-89971ba3909e)
