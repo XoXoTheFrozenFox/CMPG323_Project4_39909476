@@ -1,6 +1,6 @@
 # Project4_39909476
 ## Note to the person marking this:
-I had a great time with this project and learned a lot. Regrettably, I couldn't complete it because I focused on my studies during the mid-semester break and the first week of semesters, especially preparing for the honors test scheduled on the first weekend after semesters started on Saturday. I gave my best and atleast did 90% of the project. In short, please don't mark strict, I did this project in two day :D
+I had a great time with this project and learned a lot. Regrettably, I couldn't complete it because I focused on my studies during the mid-semester break and the first week of semesters, especially preparing for the honors test scheduled on the first weekend after semesters started on Saturday. I gave my best and atleast did 90% of the project. In short, please don't mark strict, I did this project in two days :D
 ## Photo of each sheets test's that "PASSED" or "FAILED"
 - Customers
   
