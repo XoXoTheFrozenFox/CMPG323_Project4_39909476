@@ -1,13 +1,21 @@
 # Project4_39909476
 ## Photo of each sheets test's that PASSED
 - Customers
-![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/163d9eea-aaef-4355-8f8c-68aa9261559d)
+  
+ ![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/67dad50a-f44d-4303-9a50-89971ba3909e)
+
 - Order Details
-![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/c1dc71f9-b79a-4077-816e-eddc9a12c84b)
+  
+ ![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/b02381b5-1154-4a79-a069-e6a368c78f5e)
+ 
 - Orders
-![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/bc67f1c9-b4d8-4684-8651-6f98acf84e0c)
+  
+ ![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/b3ae706f-9b86-4860-ad59-fddfa32056b1)
+ 
 - Products
-![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/abb335f1-98e3-4d51-8036-4cf8c5d110a0)
+   
+ ![image](https://github.com/XoXoTheFrozenFox/CMPG323_Project4_39909476/assets/104361159/2d825386-f516-4087-b766-aee077823d59)
+ 
 ## Description for the user how to use the RPA UIpath automation:  
 - Launch RPA Tool: Open the RPA application installed on your computer.
 - Load the Project: Access the project that contains the RPA script.
